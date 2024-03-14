@@ -15,7 +15,7 @@ Designed for the **Meta (Oculus) Quest 2** HMD
 
 # Importing this project to Unity
 - Clone the repository
-- Download Unity version 2019.4.14f1
+- Download Unity version 2019.4.14f1 (https://unity.com/releases/editor/whats-new/2019.4.14)
 - In **Unity Hub** click **Add** and select the **REVIRE** folder. All dependencies should download automatically (this may take a while).
 - To run the game in the headset through Unity Editor, connect the headset via Link-compatible cable before opening Unity and allow Data Access in the headset.
 - Open Unity and press Play to start the scene in the headset (this can be also done directly in the headset through Virtual Desktop), the scene should load automatically.
