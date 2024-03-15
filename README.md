@@ -27,10 +27,10 @@ Designed for the **Meta (Oculus) Quest 2** HMD
   - Check if XR Plugin is installed. Go to **Edit > Project Settings > XR Plugin Management and Install Plugin Management**. Set **Plugin Providers** to **Oculus** both for Android and Standalone
   - Repeat the **Device Setup** steps above
 
-# Running built APK file on Oculus Quest
+# Running built APK file on Meta Quest 2
 - Download the latest APK file
-- Connect Oculus Quest device to your Windows PC via Oculus Link Cable
-- Make sure that Unknown Sources and Hand-tracking are enabled in Oculus App, see **Device Setup** above.
+- Connect Meta Quest device to your Windows PC via Oculus Link Cable
+- Make sure that Unknown Sources and Hand-tracking are enabled in the Oculus App, see **Device Setup** above.
 - APK can be imported using Sidequest or Oculus Developer Hub:
   - Sidequest
     - Open [Sidequest](https://sidequestvr.com/setup-howto) and make sure Oculus is recognized (device connection status window in the upper-left corner should show Oculus Quest 2)
